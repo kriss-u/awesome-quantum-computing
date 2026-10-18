@@ -93,6 +93,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [QisDebug](https://github.com/kriss-u/QisDebug) - Python library for zero-touch instrumentation and timeline debugging of Qiskit circuits. Available on [PyPI](https://pypi.org/project/qisdebug/).
 - [Qiskit SDK](https://qiskit.org) - Software development kit by IBM for writing and running quantum algorithms on simulators and real hardware.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
+- [QisPlay](https://qisplay.nepcodex.com) - Browser-based Python and Qiskit playground with an editor, console and plots, with no install or account needed. Source on [GitHub](https://github.com/kriss-u/QisPlay) and starter labs in [qisplay-templates](https://github.com/kriss-u/qisplay-templates).
 - [Qrack](https://vm6502q.readthedocs.io) - High performance LGPL-licensed C++ quantum simulator library, documentation, and test code.
 - [Quantum++](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
 - [Quantum Inspire](https://www.quantum-inspire.com/) - Platform to run quantum algorithms on simulators or quantum hardware - by QuTech.
